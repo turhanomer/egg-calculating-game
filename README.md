@@ -1,11 +1,7 @@
 # Egg Calculating Game
 Oyunun amacı; 50 - 100 arasında rastgele oluşan hedef sayıyı, artılı ve eksili olacak şekilde 1 ile 9 arasında rakamlar yazan yumurtaları sepetle toplayarak hedef sayıyı elde etmektir.
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID">
-    <img src="https://www.youtube.com/watch?v=9FFuQACoflQ" alt="Egg Calculating Game" style="width:100%; max-width:600px;">
-  </a>
-</div>
+[![Egg Calculating Game](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)]([(https://www.youtube.com/watch?v=9FFuQACoflQ))
 
 
 ## Giriş Ekranı
