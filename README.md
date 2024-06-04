@@ -7,8 +7,7 @@ Oyunun amacı; 25 - 50 arasında rastgele oluşan iki sayıyı toplayarak ve ç�
 
 - Oyuncu işlemleri yaparken hedef skora eklemeli mi çıkarmalı mı diye düşünürken oyuncunun dikkatini ölçmesini sağlar.
 
-
-[![Egg Calculating Game](https://img.youtube.com/vi/9FFuQACoflQ/0.jpg)](https://www.youtube.com/watch?v=9FFuQACoflQ)
+https://github.com/turhanomer/egg-calculating-game/assets/119110719/4391e2bb-bdbe-4cfc-b641-5b08ca82a912
 
 ## Giriş Ekranı
 Oyunun giriş ekranı:
